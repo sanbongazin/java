@@ -1,19 +1,4 @@
 INDEX VERSION 1.130+/Users/yamamotomasaomi/Documents/GitHub/java/.metadata/.plugins/org.eclipse.jdt.core
-4154301423.index
 1118084800.index
-2354855704.index
-2160322470.index
-980667749.index
-1420849890.index
 281509436.index
-3439105589.index
-132156286.index
-1595983103.index
-2616531400.index
-3443263565.index
-1328665196.index
-1432819728.index
-3453454664.index
-680071618.index
-4063367785.index
-1501385002.index
+2663566962.index
