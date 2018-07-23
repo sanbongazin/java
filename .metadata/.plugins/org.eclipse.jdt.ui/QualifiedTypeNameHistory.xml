@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
 <fullyQualifiedTypeName name="Test"/>
-<fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="java.lang.Integer"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.io.BufferedReader"/>
+<fullyQualifiedTypeName name="java.io.InputStreamReader"/>
+<fullyQualifiedTypeName name="java.lang.System"/>
+<fullyQualifiedTypeName name="java.util.zip.InflaterInputStream"/>
+<fullyQualifiedTypeName name="java.util.List"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.lang.Double"/>
+<fullyQualifiedTypeName name="MyP2d"/>
+<fullyQualifiedTypeName name="Car"/>
+<fullyQualifiedTypeName name="CarSilvia"/>
+<fullyQualifiedTypeName name="CarPrius"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="sun.security.provider.VerificationProvider"/>
 <fullyQualifiedTypeName name="java.util.Random"/>
+<fullyQualifiedTypeName name="Animal"/>
+<fullyQualifiedTypeName name="Dog"/>
+<fullyQualifiedTypeName name="java.lang.Override"/>
+<fullyQualifiedTypeName name="AbstractParfait"/>
+<fullyQualifiedTypeName name="ChocolateParfait"/>
+<fullyQualifiedTypeName name="StrawberryParfait"/>
+<fullyQualifiedTypeName name="BananaParfait"/>
 </qualifiedTypeNameHistroy>
